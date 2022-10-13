@@ -1,6 +1,6 @@
-# Simple Tailwind CSS Starter
+# Tailwind demos
 
-This is an extremley simple setup to develop Tailwind projects. This will be used in my Tailwind From Scratch course.
+Cloned from Brad Traversy extremley simple setup to develop Tailwind projects. The below is links to the respective folders where each project is developed.
 
 ## Usage
 
@@ -29,3 +29,6 @@ npm run build
 ```
 
 You only need to deploy your html files and css/style.css
+
+### Projects 
+
